@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Globalization test - [18176328][BUG:ABCD-19909]",
+    "uid" : "36c8045f7bad0039",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1556686674939,
+      "stop" : 1556686687593,
+      "duration" : 12654
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

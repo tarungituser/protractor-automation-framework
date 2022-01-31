@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "E2E Suite",
+    "children" : [ {
+      "name" : "Globalization test - [18176328][BUG:ABCD-19909]",
+      "uid" : "36c8045f7bad0039",
+      "parentUid" : "d48fc3a0d33a633d7d12b8d536277a41",
+      "status" : "passed",
+      "time" : {
+        "start" : 1556686674939,
+        "stop" : 1556686687593,
+        "duration" : 12654
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d48fc3a0d33a633d7d12b8d536277a41"
+  } ]
+}

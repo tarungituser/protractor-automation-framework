@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed May 01 10:27:54 IST 2019","Wed May 01 10:28:07 IST 2019","12654","","E2E Suite","","E2E Suite","Globalization test - [18176328][BUG:ABCD-19909]","Globalization test - [18176328][BUG:ABCD-19909]",""

@@ -1,0 +1,127 @@
+{
+  "uid" : "36c8045f7bad0039",
+  "name" : "Globalization test - [18176328][BUG:ABCD-19909]",
+  "fullName" : "E2E Suite.Globalization test - [18176328][BUG:ABCD-19909]",
+  "historyId" : "5a70434b0fff4ea1acee7309228691a1",
+  "time" : {
+    "start" : 1556686674939,
+    "stop" : 1556686687593,
+    "duration" : 12654
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "- *Pre-Condition* - I am going to execute a tests",
+      "time" : {
+        "start" : 1556686675060,
+        "stop" : 1556686675060,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "- *Step* - This is my test",
+      "time" : {
+        "start" : 1556686675060,
+        "stop" : 1556686675060,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "- *Sub-Verification* - this must be there",
+      "time" : {
+        "start" : 1556686675060,
+        "stop" : 1556686675060,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "- *Verification* - aah all good",
+      "time" : {
+        "start" : 1556686675061,
+        "stop" : 1556686675061,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "70e14e3f2fec9bf0",
+      "name" : "Screenshot",
+      "source" : "70e14e3f2fec9bf0.png",
+      "type" : "image/png",
+      "size" : 8696
+    }, {
+      "uid" : "23bc37993542637b",
+      "name" : "Screenshot",
+      "source" : "23bc37993542637b.png",
+      "type" : "image/png",
+      "size" : 289460
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "E2E Suite"
+  }, {
+    "name" : "testClass",
+    "value" : "E2E Suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Globalization test - [18176328][BUG:ABCD-19909]"
+  }, {
+    "name" : "package",
+    "value" : "E2E Suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36c8045f7bad0039.json",
+  "parameterValues" : [ ]
+}

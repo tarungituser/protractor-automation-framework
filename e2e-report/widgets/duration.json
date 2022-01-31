@@ -1,0 +1,11 @@
+[ {
+  "uid" : "36c8045f7bad0039",
+  "name" : "Globalization test - [18176328][BUG:ABCD-19909]",
+  "time" : {
+    "start" : 1556686674939,
+    "stop" : 1556686687593,
+    "duration" : 12654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

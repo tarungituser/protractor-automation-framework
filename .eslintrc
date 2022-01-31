@@ -1,0 +1,23 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "es6": true,
+    "node": true,
+    "protractor": true,
+    "jasmine": true
+  },
+  "rules": {
+    "import/no-extraneous-dependencies": [
+      "error",
+      {
+        "devDependencies": true
+      }
+    ],
+    "no-unused-expressions": "off",
+    "import/first": "off",
+    "import/prefer-default-export": "off",
+    "no-return-await": "off",
+    "global-require,max-len": 400
+  },
+  "parser": "babel-eslint"
+}
